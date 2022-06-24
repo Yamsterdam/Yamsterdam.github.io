@@ -24,3 +24,7 @@ body {
 #command:focus {
   outline: none;
 }
+
+#header-content a {
+  text-decoration: none;
+}

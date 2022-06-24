@@ -54,6 +54,7 @@ function printExperience(cmd) {
                 <p>Python: [██▁▁▁▁▁▁▁▁] 2 Years</p>
                 <p>C#: [█▁▁▁▁▁▁▁▁▁] 1 Years</p>
                 <p>Java: [█▁▁▁▁▁▁▁▁▁] 1 Years</p>
+                <p>C++: [█▁▁▁▁▁▁▁▁▁] 1< Years</p>
               </div>`
   );
   $("#main-content").append($el);
@@ -75,7 +76,28 @@ function printProjects(cmd) {
     `<div>
             </br>
             <p>C:\\yamsterdam\\home>${cmd}</p>
-            <p>No projects uploaded. WIP</p>
+            </br>
+            <p">&emsp;Python</p>
+            <p>Poker Strategy Simulation - Simulates poker games playing with diffrent strategys (tight-loose) - <a href="https://github.com/Yamsterdam/Poker-Game-Simulation" target="_blank">https://github.com/Yamsterdam/Poker-Game-Simulation</a></p>
+            <p>Voicebot - Alexa type speech commands - <a href="https://github.com/Yamsterdam/Voicebot-Python" target="_blank">https://github.com/Yamsterdam/Voicebot-Python</a></p>
+            <p>Snip To Text - Converts screenshot to pastable text - <a href="https://github.com/Yamsterdam/Snip-To-Text" target="_blank">https://github.com/Yamsterdam/Snip-To-Text</a></p>
+            <p>Backdoor - Allows for connection to run console command on remote device - <a href="https://github.com/Yamsterdam/Python-Backdoor" target="_blank">https://github.com/Yamsterdam/Python-Backdoor</a></p>
+            <p>Tarkov Spotify Auto Mute - Mutes spotify while in a match of Escape from Tarkov - <a href="https://github.com/Yamsterdam/Tarkov-Spotify-Auto-Mute" target="_blank">https://github.com/Yamsterdam/Tarkov-Spotify-Auto-Mute</a></p>
+            </br>
+            <p">&emsp;HTML/JS/CSS</p>
+            <p>Typing Test Chrome Extension - Typing test chrome extension with local data save - <a href="https://github.com/Yamsterdam/Typing-Test-Chrome-Extension" target="_blank">https://github.com/Yamsterdam/Typing-Test-Chrome-Extension</a></p>
+            <p>Express Room Demo - Multiplayer lobby/rooms using express and socket.io - <a href="https://github.com/Yamsterdam/express-roomtest" target="_blank">https://github.com/Yamsterdam/express-roomtest</a></p>
+            </br>
+            <p">&emsp;C++</p>
+            <p>C++ Auth Console App - Ability to register and login with C++ console and filesystem - <a href="https://github.com/Yamsterdam/Simple-CPP-Auth-App" target="_blank">https://github.com/Yamsterdam/Simple-CPP-Auth-App</a></p>
+            </br>
+            <p">&emsp;Java</p>
+            </br>
+            <p">&emsp;C#</p>
+            </br>
+            <p">&emsp;Lua</p>
+            </br>
+
           </div>`
   );
   $("#main-content").append($el);
