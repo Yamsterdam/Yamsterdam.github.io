@@ -92,6 +92,7 @@ function printProjects(cmd) {
             <p>C++ Auth Console App - Ability to register and login with C++ console and filesystem - <a href="https://github.com/Yamsterdam/Simple-CPP-Auth-App" target="_blank">https://github.com/Yamsterdam/Simple-CPP-Auth-App</a></p>
             </br>
             <p">&emsp;Java</p>
+            <p>Wordle Remake - NYT Wordle game remade in console - <a href="https://github.com/Yamsterdam/Wordle-Remake" target="_blank">https://github.com/Yamsterdam/Wordle-Remake</a></p>
             </br>
             <p">&emsp;C#</p>
             </br>
