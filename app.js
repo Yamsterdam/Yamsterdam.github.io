@@ -66,7 +66,7 @@ function printAbout(cmd) {
               </br>
               <p>C:\\yamsterdam\\home>${cmd}</p>
               <p>
-              Hey there! Welcome to my portfolio! I'm a versatile developer with experience in Roblox game dev, web dev, and coding in C#, C++, Python, and Java. I've created awesome games using Roblox Lua scripting, built dynamic websites with HTML, CSS, and JavaScript, and crafted various apps and solutions in those programming languages. I'm all about attention to detail and bringing innovative ideas to life. Thanks for checking out my work, and I can't wait to work with you!</p>
+              Hey there! Welcome to my portfolio! I'm a versatile developer with experience in Roblox game dev, web dev, and coding in C#, C++, Python, and Java. \nI've created awesome games using Roblox Lua scripting, built dynamic websites with HTML, CSS, and JavaScript, and crafted various apps and solutions in those programming languages. \nI'm all about attention to detail and bringing innovative ideas to life. Thanks for checking out my work, and I can't wait to work with you!</p>
             </div>`
   );
   $("#main-content").append($el);
