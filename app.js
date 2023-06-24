@@ -49,7 +49,7 @@ function printExperience(cmd) {
                 <p>C:\\yamsterdam\\home>${cmd}</p>
                 <p>My Experience:</p>
                 </br>
-                <p>LUA: [██▁▁▁▁▁▁] 2.5 Years</p>
+                <p>LUA / Roblox: [█▁▁▁▁▁▁▁] 1.5 Years</p>
                 <p>HTML/JS/CSS: [██▁▁▁▁▁▁▁▁] 2 Years</p>
                 <p>Python: [██▁▁▁▁▁▁▁▁] 2 Years</p>
                 <p>C#: [█▁▁▁▁▁▁▁▁▁] 1 Years</p>
@@ -96,7 +96,11 @@ function printProjects(cmd) {
             </br>
             <p">&emsp;C#</p>
             </br>
-            <p">&emsp;Lua</p>
+            <p">&emsp;Lua / Roblox</p>
+            <p>Thalassophobia - Unfinished Game but with custom made swimming system - <a href="https://www.roblox.com/games/13449266901/Thalassophobia" target="_blank">https://www.roblox.com/games/13449266901/Thalassophobia</a></p>
+            <p>Get Eaten By Gus Fring - Made as a joke but first project I finished and made robux from - <a href="https://www.roblox.com/games/10433877192/MEGA-UPDATE-Get-Eaten-By-Gus-Fring" target="_blank">https://www.roblox.com/games/10433877192/MEGA-UPDATE-Get-Eaten-By-Gus-Fring</a></p>
+            <p>Gun Factory - Unfished tycoon with a custom built building system, and store - <a href="https://www.roblox.com/games/13774258601/Gun-Factory" target="_blank">https://www.roblox.com/games/13774258601/Gun-Factory</a></p>
+            <p>Block Battle - Unique little combat game made in a day - <a href="https://www.roblox.com/games/11914208997/Block-Battle-Alpha" target="_blank">https://www.roblox.com/games/11914208997/Block-Battle-Alpha</a></p>
             </br>
 
           </div>`
